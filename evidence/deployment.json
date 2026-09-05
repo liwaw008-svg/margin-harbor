@@ -1,0 +1,10 @@
+{
+  "contract": "0x568fC7A5A073C499bdB964d73169cb0833D92f5C",
+  "deploymentTx": "0xa0575fe4b83bd8a2ed45e7a37a3bd0864224b30f388f98ddedd6a15b506ab67c",
+  "network": "StudioNet",
+  "deployer": "0x05C0cc3F433F6e296f18117f558FdB9043434793",
+  "sourceCommit": "5416131da33172927693218c5fadc5a85e15c03c",
+  "evidenceCommit": "5416131da33172927693218c5fadc5a85e15c03c",
+  "receiptStatus": "ACCEPTED",
+  "execution": "CONTRACT_ADDRESS_RETURNED"
+}
