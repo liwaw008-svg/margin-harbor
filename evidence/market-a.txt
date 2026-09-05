@@ -1,0 +1,1 @@
+Market observation MH-12 epoch 1: collateral value 150 units. Feed status final for this epoch.
